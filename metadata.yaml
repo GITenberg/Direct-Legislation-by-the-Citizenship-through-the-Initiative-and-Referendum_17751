@@ -1,0 +1,26 @@
+_repo: Direct-Legislation-by-the-Citizenship-through-the-Initiative-and-Referendum_17751
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sullivan, J. W. (James William)
+    alias: Sullivan, James William
+    birthdate: 1848
+    gutenberg_agent_id: '7582'
+    url: http://www.gutenberg.org/2009/agents/7582
+description: ''
+gutenberg_issued: '2006-02-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Referendum'
+- !lcc 'JF'
+title: Direct Legislation by the Citizenship through the Initiative and Referendum
+url: http://www.gutenberg.org/ebooks/17751
